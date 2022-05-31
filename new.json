@@ -1,0 +1,10 @@
+{
+	"Full_name":{
+		"first_name": "Денис",
+		"second_name": "Прокофьев",
+		"patronymic": "Петрович"
+		},
+	"Age": 32,
+	"Pets_quantity": null,
+	"Desirable_salary": "$1500"
+}
