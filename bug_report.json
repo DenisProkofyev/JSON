@@ -1,5 +1,5 @@
 {
-  “Bug_Name“: "Application crashes upon clicking the SAVE button while creating a new user",
+  "Bug_Name": "Application crashes upon clicking the SAVE button while creating a new user",
   "Bug_ID": 1,
   "Area_Path": "USERS menu -> New Users",
   "Build_Number": "Version Number 5.0.1",
