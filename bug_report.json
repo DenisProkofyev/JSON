@@ -5,7 +5,7 @@
   "Build_Number": "Version Number 5.0.1",
   "Severity": "HIGH",
   "Priority": "HIGH",
-  "Assigned to": "Developer-X",
+  "Assigned_to": "Developer-X",
   "Reported_By": "Prokofyev Denis",
   "Reported_On": "05/31/22",
   "Reason": "Defect",
